@@ -1,0 +1,56 @@
+[
+    {
+        "title": "Arc of Time",
+        "status": "Drafted",
+        "year": 2019,
+        "wc": 50000
+    },
+    {
+        "title": "Fate's Refrain",
+        "status": "Edited",
+        "year": 2019,
+        "wc": 99000
+    },
+    {
+        "title": "The Looking Glass Way",
+        "status": "Queried",
+        "year": 2020,
+        "wc": 99000
+    },
+    {
+        "title": "The Holy Planet",
+        "status": "Queried",
+        "year": 2022,
+        "wc": 137000
+    },
+    {
+        "title": "Memory Awake",
+        "status": "Drafted",
+        "year": 2022,
+        "wc": 76000
+    },
+    {
+        "title": "Anemia",
+        "status": "Queried",
+        "year": 2023,
+        "wc": 98000
+    },
+    {
+        "title": "High Necromancy",
+        "status": "Drafted",
+        "year": 2024,
+        "wc": 106000
+    },
+    {
+        "title": "The Body Remembers",
+        "status": "Queried",
+        "year": 2024,
+        "wc": 79000
+    },
+    {
+        "title": "The Exile",
+        "status": "Edited",
+        "year": 2024,
+        "wc": 100000
+    }
+]
